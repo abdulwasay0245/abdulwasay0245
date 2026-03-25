@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on a resume builder using Next.js and FastAPI  <br>👯 I’m looking to collaborate on web development and open-source projects  <br>🤝 I’m looking for help with improving my TypeScript and backend skills  <br>🌱 I’m currently learning TypeScript, Tailwind CSS, and building with AI tools  <br>💬 Ask me about web development, UI design, or fitness tips  <br>⚡ Fun fact: I make gym reels, and love building clean UIs<br>
+
 
 
 ## 🌐 Socials:
