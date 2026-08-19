@@ -9,8 +9,8 @@
 ### 🧑‍💻 About Me
  
 - 🎓 BS Artificial Intelligence student at **MAJU, Karachi**
-- 💻 Building full-stack apps with **Node.js, Express, MongoDB, Next.js**
-- 🧪 Trained in **Manual & Automated QA Testing** (Playwright, POM) under a Senior SQA Architect at Contour Software
+- 💻 Built full-stack apps 
+- 🧪 Trained in **Manual & Automated QA Testing** 
 - 🌱 Currently exploring deeper automation testing and full-stack architecture patterns
 - 🤝 Mentoring junior students in C++ & programming fundamentals @ MAJU CodeCraft
 - 📫 Reach me: **abdulwasay0245@gmail.com**
